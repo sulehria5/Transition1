@@ -1,0 +1,14 @@
+div{
+    
+    height:5vw;
+    width:5vw;
+    background-color:rgb(255, 196, 0);
+    transition: 1s width ease;
+    
+   
+}
+
+div:hover{
+width:90vw;
+
+}
